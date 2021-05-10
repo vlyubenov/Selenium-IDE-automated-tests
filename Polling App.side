@@ -38,7 +38,7 @@
       "id": "d83ad711-36d4-409b-86f6-17b131a6cb1a",
       "comment": "",
       "command": "assertElementPresent",
-      "target": "xpath=/html/body/app-root/div/app-poll-list/div/poll-view[1]/div/div/div/div[1]/a/span[4]",
+      "target": "xpath=(//span[@tooltip=\"Home\"])[1]",
       "targets": [],
       "value": ""
     }]
@@ -63,7 +63,7 @@
       "id": "37da4f6d-095d-4efc-9d2a-04af8d00f69e",
       "comment": "",
       "command": "assertElementPresent",
-      "target": "xpath=/html/body/app-root/div/app-poll-list/div/poll-view[1]/div/div/div/div[1]/a/span[4]",
+      "target": "xpath=(//span[@tooltip=\"Home\"])[1]",
       "targets": [],
       "value": ""
     }]
@@ -102,7 +102,7 @@
       "id": "70a67ca0-de17-4c57-9402-f10fee3b47dd",
       "comment": "",
       "command": "assertElementPresent",
-      "target": "xpath=/html/body/app-root/div/app-poll-list/div/poll-view[1]/div/div/div/div[1]/a/span[4]",
+      "target": "xpath=(//span[@tooltip=\"Home\"])[1]",
       "targets": [],
       "value": ""
     }]
